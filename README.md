@@ -11,6 +11,6 @@
   - Rxjava, RxAndroid: for background processing
   - Mockito: for unit test
 # Improvements: something could be improved
-  - Apply MVVM
-  - Apply Dependency Inject library
+  - Integrate MVVM
+  - Integrate Dependency Injection library
 
