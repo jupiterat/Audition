@@ -1,4 +1,11 @@
 # Audition
+  - Both Kotlin and Java are using. Java is mainly programming language
+  - Task Status
+    - Mention: Done
+    - Link: Done
+  - Unit test: only cover some cases(coverage is not 100%)
+    - Presenter, UseCase
+    - Repository, Entiry: No Unit test
 # Setup & Step to reproduce
   - Get source code branch /master
   - Run and follow steps in the screenshoot below
@@ -13,4 +20,5 @@
 # Improvements: something could be improved
   - Integrate MVVM
   - Integrate Dependency Injection library
+  - Update UT. Make coverage higher
 
