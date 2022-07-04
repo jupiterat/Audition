@@ -2,7 +2,9 @@
   - Both Kotlin and Java are using. Java is mainly programming language
   - Task Status
     - Mention: Done
+      - Solution: using regex to get expected data
     - Link: Done
+      - Solution: Make a request to webpage then get title in data by using regex    
   - Unit test: only cover some cases(coverage is not 100%)
     - Presenter, UseCase
     - Repository, Entiry: No Unit test
